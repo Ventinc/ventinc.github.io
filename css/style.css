@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Bungee';
+    src: local('Bungee'), url(./Bungee.ttf);
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: #3399DA;
+}
+
+canvas#game {
+    display: block;
+}
